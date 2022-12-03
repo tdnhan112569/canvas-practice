@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="xanh_duong">#2b4fd8</color>
+    <color name="xanh_la_cay">#0ab39c</color>
+    <color name="cam">#f16548</color>
+    <color name="mau_do">#ea0a0a</color>
+    <color name="mau_text">#505f78</color>
+    <color name="xam_nhat">#f2f2f2</color>
+    <color name="xam_dam">#caced9</color>
+
+
+    <color name="color_5073B8">#5073B8</color>
+    <color name="color_6150B8">#6150B8</color>
+    <color name="color_A050B8">#A050B8</color>
+    <color name="color_B85081">#B85081</color>
+    <color name="color_FF3B3B">#FF3B3B</color>
+    <color name="color_3BD7FF">#3BD7FF</color>
+    <color name="color_1CCB5C">#1CCB5C</color>
+    <color name="color_F1963A">#F1963A</color>
+    <color name="color_72B112">#72B112</color>
+    <color name="color_F16548">#F16548</color>
+    <color name="color_0606E3">#0606E3</color>
+    <color name="color_0AB39C">#0AB39C</color>
+    <color name="color_F8BA5E">#F8BA5E</color>
+    <color name="semi_transparent">#4DFFFFFF</color>
+
+    <color name="color_e4e4e8">#e4e4e8</color>
+    <color name="color_292828">#292828</color>
+    <color name="color_353535">#353535</color>
+    <color name="color_707070">#707070</color>
+
+</resources>

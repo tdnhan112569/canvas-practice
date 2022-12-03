@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BarChartByCanvas</string>
+    <string name="assets">Tài sản</string>
+    <string name="debit">Nợ</string>
+
+    <string name="text_title_buying">Mua sắm</string>
+    <string name="text_title_eating">Ăn uống</string>
+    <string name="text_title_traveling">Du lịch</string>
+    <string name="text_title_service_helpful">Dịch vụ tiện ích</string>
+    <string name="text_title_healthy">Sức khoẻ</string>
+    <string name="text_title_airplane">Máy bay</string>
+    <string name="text_title_moving">Di chuyển</string>
+    <string name="text_title_entertainment">Giải trí</string>
+    <string name="text_title_skincare">Làm đẹp</string>
+    <string name="text_title_investment">Đầu tư</string>
+    <string name="text_title_education">Giáo dục</string>
+    <string name="text_title_assurance">Bảo hiểm</string>
+    <string name="text_title_other">Khác</string>
+
+</resources>
